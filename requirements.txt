@@ -1,0 +1,16 @@
+# git clone git+https://github.com/openai/CLIP.git
+# pip install .
+# conda create -n img-text-search python=3.10
+# conda activate img-text-search
+# python==3.10 !
+
+streamlit
+streamlit-image-select
+streamlit-nested-layout
+cn_clip
+qdrant-client
+json5
+langchain
+openai
+uvicorn
+fastapi

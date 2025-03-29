@@ -1,0 +1,8 @@
+# 忽略模型文件
+ckpts/
+# 忽略Python缓存文件
+__pycache__/
+*.pyc
+# 其他临时文件
+*.log
+.env
