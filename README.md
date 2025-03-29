@@ -1,3 +1,3 @@
 text-image retrieval system
 
-python fastapi clip qdrant
+python clip qdrant fastapi streamlit
